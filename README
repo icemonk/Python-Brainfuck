@@ -24,3 +24,5 @@ DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
 
 va interpreter written in python mod by V aka icemonk
 
+Usage:
+ ./brainfuck.py yourcode.va
